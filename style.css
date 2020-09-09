@@ -1,0 +1,28 @@
+.wrapper{
+    width: 700px;
+    
+}
+
+.container{
+    border: #4285F4 solid 2px;
+    padding: 15px;
+    margin: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.box{
+    width: 50px;
+    height: 50px;
+    background-color: #4285F4;
+}
+
+.square{
+    width: 50px;
+    height: 50px;
+    background-color: #643579;
+}
+
+.B{
+    background-color: #FF6347;
+}
